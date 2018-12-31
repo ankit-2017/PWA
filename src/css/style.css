@@ -1,0 +1,29 @@
+.current{
+    padding: 15px 10px 15px 10px;
+    text-align: center;
+    background-color: rgb(11, 231, 147);
+    border-radius: 3px;
+    color: black;
+    margin-bottom: 10px;
+}
+
+h2, h3 {
+    color: white
+}
+#price {
+    width: 100%;
+    padding: 10px 0 10px 0;
+}
+#header {
+    background-color: blueviolet;
+}
+#price span {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#price p {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
